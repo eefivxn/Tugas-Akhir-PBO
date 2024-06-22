@@ -1,0 +1,7 @@
+.shadow{
+	-fx-effect:dropshadow(three-pass-box, rgba(0,0,0,0.5), 6,0,0,0); 
+}
+
+.linear-gradient-horizontal {
+    -fx-background-color: linear-gradient(to right, #30c5d2, #471069);
+}
